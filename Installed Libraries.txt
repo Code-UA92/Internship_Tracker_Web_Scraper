@@ -1,0 +1,1 @@
+//installed requests beautifulsoup4 pandas
