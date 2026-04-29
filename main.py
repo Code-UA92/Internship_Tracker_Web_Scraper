@@ -1,8 +1,13 @@
 #imports libraries
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
+from dotenv import load_dotenv
 
+load_dotenv()
+
+brave_search_api_key = os.getenv("brave_search_api_key")
 # Load your JSON file, read only.
 with open("data/search_terms.json", "r") as file:
     #loads JSON file to Python OOP object
@@ -26,3 +31,4 @@ for field in fields:
         queries.append(query)
         #outputs current query to terminal
         print(query)
+        print(brave_search_api_key)
