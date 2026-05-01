@@ -38,6 +38,16 @@ Text:
 
     return response.text
 
+    response = requests.get(demo_url)
+
+soup = BeautifulSoup(response.text, "html.parser")
+
+page_text = soup.get_text(separator="\n", strip=True)
+
+result = extract_job_details(page_text[:10000], demo_url)
+
+print(result)
+
 brave_search_api_key = os.getenv("brave_search_api_key")
 # Load your JSON file, read only.
 with open("data/search_terms.json", "r") as file:
@@ -62,4 +72,3 @@ for field in fields:
         queries.append(query)
         #outputs current query to terminal
         print(query)
-        print(brave_search_api_key)
