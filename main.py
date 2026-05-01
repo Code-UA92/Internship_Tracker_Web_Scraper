@@ -8,7 +8,11 @@ from dotenv import load_dotenv
 #loads api from environment
 load_dotenv()
 
+genai.configure(api_key=os.getenv("gemini_api_key"))
+
 demo_url= "https://www.google.com/about/careers/applications/jobs/results/116505799294886598-software-engineering-intern-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE"
+
+
 
 brave_search_api_key = os.getenv("brave_search_api_key")
 # Load your JSON file, read only.
