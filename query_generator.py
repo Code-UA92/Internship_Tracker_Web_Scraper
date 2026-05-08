@@ -3,7 +3,6 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import json
-import google.generativeai as genai
 from dotenv import load_dotenv 
 brave_search_api_key = os.getenv("brave_search_api_key")
 # Load your JSON file, read only.
