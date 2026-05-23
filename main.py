@@ -11,7 +11,7 @@ from scrapling import Fetcher
 
 client = genai.Client(api_key=os.getenv("gemini_api_key"))
 
-demo_url= "https://www.google.com/about/careers/applications/jobs/results/116505799294886598-software-engineering-intern-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE"
+demo_url= "https://www.efinancialcareers.co.uk/jobs-UK-London-Software_Developer_Summer_Internship.id24214094?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
 
 def extract_job_details(page_text, source_url):
 
