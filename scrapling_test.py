@@ -2,6 +2,7 @@ import json
 import re
 from urllib.parse import urljoin, urlparse
 
+from bs4 import BeautifulSoup
 from scrapling import Fetcher
 
 
@@ -31,6 +32,21 @@ COUNTRY_HINTS = {
     "Singapore": "Singapore",
     "India": "India",
 }
+
+MONTH_NAMES = (
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+)
 
 
 def extract_company_from_label(label):
@@ -93,6 +109,120 @@ def extract_subject_tags_from_card(article):
         tags.append(tag)
 
     return tags
+
+
+def parse_detail_page(detail_html):
+    soup = BeautifulSoup(detail_html, "html.parser")
+    body = soup.select_one("div.body-content")
+
+    if body is None:
+        return {
+            "job_description": None,
+            "minimum_requirements": [],
+            "preferred_requirements": [],
+            "duration": None,
+        }
+
+    description_parts = []
+    section_text = {}
+    current_section = None
+
+    for child in body.children:
+        if getattr(child, "name", None) is None:
+            continue
+
+        if child.name == "h3":
+            current_section = child.get_text(" ", strip=True).rstrip(":")
+            section_text.setdefault(current_section, [])
+            continue
+
+        text = child.get_text(" ", strip=True)
+        if not text:
+            continue
+
+        if current_section is None:
+            description_parts.append(text)
+        else:
+            section_text[current_section].append(text)
+
+    job_description_sections = ["About the Role", "Responsibilities", "Key Responsibilities"]
+    job_description_parts = description_parts[:]
+    for section_name in job_description_sections:
+        job_description_parts.extend(section_text.get(section_name, []))
+
+    requirements_text = " ".join(section_text.get("Requirements", []))
+    minimum_requirements = extract_minimum_requirements(requirements_text)
+    preferred_requirements = extract_preferred_requirements(requirements_text)
+    duration = extract_duration_from_text(" ".join(job_description_parts + [requirements_text]))
+
+    return {
+        "job_description": " ".join(job_description_parts).strip() or None,
+        "minimum_requirements": minimum_requirements,
+        "preferred_requirements": preferred_requirements,
+        "duration": duration,
+    }
+
+
+def extract_minimum_requirements(requirements_text):
+    if not requirements_text:
+        return []
+
+    lines = [line.strip("•; ") for line in requirements_text.splitlines()]
+    items = []
+    seen = set()
+
+    for line in lines:
+        if not line:
+            continue
+
+        normalized_line = re.sub(r"\s+", " ", line).strip()
+        if normalized_line.lower().startswith("preferred") or normalized_line.lower().startswith("preferable"):
+            continue
+
+        if normalized_line not in seen:
+            seen.add(normalized_line)
+            items.append(normalized_line)
+
+    if not items:
+        compact = re.sub(r"\s+", " ", requirements_text).strip()
+        if compact:
+            items.append(compact)
+
+    return items
+
+
+def extract_preferred_requirements(requirements_text):
+    if not requirements_text:
+        return []
+
+    preferred_matches = []
+
+    for match in re.finditer(r"(?:preferred|preferable)\s+([^.;\n]+)", requirements_text, re.IGNORECASE):
+        value = match.group(1).strip()
+        if value and value not in preferred_matches:
+            preferred_matches.append(value)
+
+    return preferred_matches
+
+
+def extract_duration_from_text(text):
+    if not text:
+        return None
+
+    month_pattern = r"(?:" + "|".join(MONTH_NAMES) + r")"
+    patterns = [
+        r"\b\d+\s*(?:months?|weeks?|days?)\b",
+        rf"\b{month_pattern}\s*(?:-|to|–|—)\s*{month_pattern}(?:\s+\d{{4}})?\b",
+        r"\byear in industry\b",
+        r"\bplacement\b",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if match:
+            return match.group(0).strip()
+
+    return None
 
 
 def normalize_location(location):
@@ -191,6 +321,7 @@ def extract_listing_cards(soup, base_url):
         work_mode, location = normalize_location(raw_location)
         country = extract_country_from_location(raw_location)
         subject_tags = extract_subject_tags_from_card(article)
+        detail_data = parse_detail_page(fetch_page(listing_url).html_content)
 
         seen_urls.add(listing_url)
         listings.append(
@@ -204,6 +335,10 @@ def extract_listing_cards(soup, base_url):
                 "work_mode": work_mode,
                 "location": location,
                 "subject_tags": subject_tags,
+                "job_description": detail_data["job_description"],
+                "minimum_requirements": detail_data["minimum_requirements"],
+                "preferred_requirements": detail_data["preferred_requirements"],
+                "duration": detail_data["duration"],
                 "url": listing_url,
             }
         )
@@ -218,10 +353,10 @@ result = {
     "source_url": LISTINGS_URL,
     "job_board_site": urlparse(LISTINGS_URL).netloc.lower(),
     "count": len(listings),
-    "listings": listings[:10],
+    "listings": listings,
 }
 
-print(json.dumps(result, indent=2))
+print(json.dumps(result, indent=2, ensure_ascii=False))
 
 with open("job_data.json", "w", encoding="utf-8") as file:
     json.dump(result, file, indent=2, ensure_ascii=False)
