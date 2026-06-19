@@ -1,16 +1,47 @@
 {
-  "title": null,
-  "company": null,
-  "job_board_site": "www.efinancialcareers.co.uk",
-  "job_type": null,
-  "location": null,
-  "description": null,
-  "req_qualifications": [],
-  "pref_qualifications": [],
-  "open_date": null,
-  "deadline": null,
-  "programme_link": "https://www.efinancialcareers.co.uk/jobs-UK-London-Software_Developer_Summer_Internship.id24214094",
-  "salary": null,
-  "is_active": true,
-  "is_paid": false
+  "source_url": "https://www.gradcracker.com/search/all-disciplines/engineering-graduate-jobs",
+  "job_board_site": "www.gradcracker.com",
+  "count": 81,
+  "listings": [
+    {
+      "title": "Graduate Software Engineer",
+      "url": "https://www.gradcracker.com/hub/9000001/featured-graduate-employer/graduate-job/1/graduate-software-engineer"
+    },
+    {
+      "title": "Junior Graduate Engineer - Fluent in Dutch",
+      "url": "https://www.gradcracker.com/hub/1351/risktec-solutions/graduate-job/81224/junior-graduate-engineer-fluent-in-dutch"
+    },
+    {
+      "title": "Graduate CFD Engineer",
+      "url": "https://www.gradcracker.com/hub/1276/totalsim-cfd/graduate-job/81434/graduate-cfd-engineer"
+    },
+    {
+      "title": "Weapon Engineer Officer (Submariner)",
+      "url": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6629/weapon-engineer-officer-submariner"
+    },
+    {
+      "title": "Graduate Cloud Software Engineer (2026 start)",
+      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/77914/graduate-cloud-software-engineer-2026-start"
+    },
+    {
+      "title": "Graduate Cloud Consultant",
+      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81106/graduate-cloud-consultant"
+    },
+    {
+      "title": "Graduate Landscape Architecture",
+      "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/80942/graduate-landscape-architecture"
+    },
+    {
+      "title": "Service Desk Associate",
+      "url": "https://www.gradcracker.com/hub/727/tata-consultancy-services-tcs/graduate-job/81044/service-desk-associate"
+    },
+    {
+      "title": "Data & Analytics Research Fellowship",
+      "url": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/76939/data-and-analytics-research-fellowship"
+    },
+    {
+      "title": "R&D Post-Doctoral Placement",
+      "url": "https://www.gradcracker.com/hub/55/procter-and-gamble/graduate-job/81096/r-and-d-post-doctoral-placement"
+    }
+  ]
 }
