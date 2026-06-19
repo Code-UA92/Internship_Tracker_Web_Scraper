@@ -1,47 +1,177 @@
 {
   "source_url": "https://www.gradcracker.com/search/all-disciplines/engineering-graduate-jobs",
   "job_board_site": "www.gradcracker.com",
-  "count": 81,
+  "count": 80,
   "listings": [
     {
-      "title": "Graduate Software Engineer",
-      "url": "https://www.gradcracker.com/hub/9000001/featured-graduate-employer/graduate-job/1/graduate-software-engineer"
-    },
-    {
       "title": "Junior Graduate Engineer - Fluent in Dutch",
+      "company": "Risktec Solutions",
+      "deadline": "June 24th, 2026",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "Netherlands",
+      "work_mode": "Onsite",
+      "location": "Rijswijk (Netherlands)",
+      "subject_tags": [
+        "Chemistry",
+        "Physics",
+        "Maths",
+        "Computing",
+        "Geology"
+      ],
       "url": "https://www.gradcracker.com/hub/1351/risktec-solutions/graduate-job/81224/junior-graduate-engineer-fluent-in-dutch"
     },
     {
       "title": "Graduate CFD Engineer",
+      "company": "TotalSim CFD",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": null,
+      "work_mode": "Onsite",
+      "location": "Charwelton (Northamptonshire)",
+      "subject_tags": [
+        "Mechanical",
+        "Aerodynamics",
+        "Physics",
+        "Maths"
+      ],
       "url": "https://www.gradcracker.com/hub/1276/totalsim-cfd/graduate-job/81434/graduate-cfd-engineer"
     },
     {
       "title": "Weapon Engineer Officer (Submariner)",
+      "company": "Royal Navy",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "£34,676 + £27,000 joining bonus",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Dartmouth then UK & International Travel",
+      "subject_tags": [
+        "Electrical",
+        "Electronic",
+        "Mechanical",
+        "Robotics",
+        "Cyber",
+        "Maths",
+        "Physics"
+      ],
       "url": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6629/weapon-engineer-officer-submariner"
     },
     {
       "title": "Graduate Cloud Software Engineer (2026 start)",
+      "company": "Cambridge Consultants",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Cambridge",
+      "subject_tags": [
+        "AI/Machine Learning",
+        "Computer Science",
+        "Software",
+        "Web Development"
+      ],
       "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/77914/graduate-cloud-software-engineer-2026-start"
     },
     {
       "title": "Graduate Cloud Consultant",
+      "company": "Reply",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London",
+      "subject_tags": [
+        "Computing",
+        "IT",
+        "Software",
+        "Web Development"
+      ],
       "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81106/graduate-cloud-consultant"
     },
     {
       "title": "Graduate Landscape Architecture",
+      "company": "Arup",
+      "deadline": "June 26th, 2026",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London, Southampton, Leeds and Sheffield",
+      "subject_tags": [
+        "Landscape Architecture",
+        "Geography",
+        "Environmental Science"
+      ],
       "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/80942/graduate-landscape-architecture"
     },
     {
       "title": "Service Desk Associate",
+      "company": "Tata Consultancy Services (TCS)",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London",
+      "subject_tags": [
+        "IT",
+        "Software",
+        "Project Management"
+      ],
       "url": "https://www.gradcracker.com/hub/727/tata-consultancy-services-tcs/graduate-job/81044/service-desk-associate"
     },
     {
       "title": "Data & Analytics Research Fellowship",
+      "company": "Oliver Wyman",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Newcastle upon Tyne",
+      "subject_tags": [
+        "Maths",
+        "Statistics",
+        "Data",
+        "Analytics",
+        "Physics",
+        "Computer Science"
+      ],
       "url": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/76939/data-and-analytics-research-fellowship"
     },
     {
       "title": "R&D Post-Doctoral Placement",
+      "company": "Procter & Gamble",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "£55,000",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Newcastle",
+      "subject_tags": [
+        "Chemistry",
+        "Analytics"
+      ],
       "url": "https://www.gradcracker.com/hub/55/procter-and-gamble/graduate-job/81096/r-and-d-post-doctoral-placement"
+    },
+    {
+      "title": "Technical Support Machine Control",
+      "company": "Flannery Plant Hire (Oval) Ltd",
+      "deadline": "Ongoing",
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Birmingham",
+      "subject_tags": [
+        "Civil",
+        "Construction"
+      ],
+      "url": "https://www.gradcracker.com/hub/951/flannery-plant-hire-oval-ltd/graduate-job/38208/technical-support-machine-control"
     }
   ]
 }
