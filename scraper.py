@@ -1,4 +1,6 @@
 import re
+import time
+from random import uniform
 from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse
 
@@ -44,13 +46,41 @@ MONTH_NAMES = (
     "November",
     "December",
 )
+MAX_FETCH_RETRIES = 4
+INITIAL_BACKOFF_SECONDS = 5
+BACKOFF_MULTIPLIER = 2
+DETAIL_PAGE_DELAY_SECONDS = 1.2
 
 
-def fetch_page(url):
-    try:
-        return Fetcher.get(url)
-    except Exception as error:
-        raise SystemExit(f"Failed to fetch page: {error}")
+def fetch_page(url, retries=MAX_FETCH_RETRIES, initial_backoff=INITIAL_BACKOFF_SECONDS):
+    backoff = initial_backoff
+    last_error = None
+    for attempt in range(retries + 1):
+        try:
+            response = Fetcher.get(url)
+        except Exception as error:
+            last_error = error
+            if attempt < retries:
+                time.sleep(backoff + uniform(0.1, 0.8))
+                backoff *= BACKOFF_MULTIPLIER
+                continue
+            raise SystemExit(f"Failed to fetch page after retries: {error}")
+
+        status = getattr(response, "status", None)
+        if status == 200:
+            return response
+
+        is_retryable = status in {403, 429, 500, 502, 503, 504}
+        if is_retryable and attempt < retries:
+            time.sleep(backoff + uniform(0.1, 0.8))
+            backoff *= BACKOFF_MULTIPLIER
+            continue
+
+        raise SystemExit(
+            f"Failed to fetch page (status={status if status is not None else 'unknown'}): {url}"
+        )
+
+    raise SystemExit(f"Failed to fetch page after retries: {last_error}")
 
 
 def extract_company_from_label(label):
@@ -263,6 +293,7 @@ def extract_listing_cards(soup, base_url):
         work_mode, location = normalize_location(raw_location)
         country = extract_country_from_location(raw_location)
         subject_tags = extract_subject_tags_from_card(article)
+        time.sleep(DETAIL_PAGE_DELAY_SECONDS + uniform(0, 0.5))
         detail_data = parse_detail_page(fetch_page(listing_url).html_content)
         seen_urls.add(listing_url)
         listings.append(
