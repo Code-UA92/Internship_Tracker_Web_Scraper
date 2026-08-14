@@ -1,1455 +1,293 @@
 {
   "source_url": "https://www.gradcracker.com/search/all-disciplines/engineering-graduate-jobs",
   "job_board_site": "www.gradcracker.com",
-  "count": 80,
+  "count": 27,
   "listings": [
     {
-      "title": "Junior Graduate Engineer - Fluent in Dutch",
-      "company": "Risktec Solutions",
-      "deadline": "June 24th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "Netherlands",
-      "work_mode": "Onsite",
-      "location": "Rijswijk (Netherlands)",
-      "subject_tags": [
-        "Chemistry",
-        "Physics",
-        "Maths",
-        "Computing",
-        "Geology"
-      ],
-      "job_description": "For this role you will need to be fluent in Dutch and prepared to live and work in the Netherlands. Risktec has a graduate vacancy within the company in the Netherlands, based at our office in Rijswijk. Our current opportunity spans a variety of industries, but with a focus on oil and gas (offshore and onshore), chemical manufacturing, carbon capture and storage, hydrogen generation and distribution, and onshore and offshore wind energy. We are looking to recruit enthusiastic and confident graduates/undergraduates with excellent report writing skills who can technically scribe engineering workshops, assist with technical safety work related to QRA and who have Dutch and English language (spoken and written language) to a high standard. Not only graduates can respond, we also welcome undergraduate students looking for a year in industry and, junior level engineers/consultants with 1 – 2 years’ experience within engineering field in Oil & Gas, Power & and Clean Energy industries for our expanding engineering risk management consultancy. Various disciplines are of interest include engineering, chemistry, physics, mathematics, computing, geology and ergonomics. You will be expected to work effectively and collaboratively with colleagues on multiple projects and will develop a good understanding of the technical, engineering and operational issues fundamental to safety and risk management. You will gain experience of a broad range of activities including: Conducting physical effects modelling; Frequency assessment; Risk analysis; Supporting facilitation and recording of technical workshops. There may be opportunities for travel, either with clients or to other Risktec offices in the U.K, Dubai, Houston and Calgary, and also opportunities to work offshore. Under the guidance of the relevant Technical Leads/Project Managers, deliver safety and risk management consultancy services to time, budget and quality; Prioritisation of tasks based on business and client needs; Support bid development; Produce high quality written work (e.g. technical reports); Demonstrate a willingness to gain experience and develop as a consultant; Set high personal standards; Take personal responsibility for your own professional development, supported by your Team Leader and the company’s Professional Development Review (PDR) process; Adhere to Quality Assurance (QA) procedures.",
-      "minimum_requirements": [
-        "As Dutch is mandatory to serve our Dutch clients, we will consider native speaking Dutch, or C1 and C2 level language/technical writing English (secondary), speaking language /technical writing at professional level (min B2, preferable C1) is required. Work planning and organisation; Listening and communicating clearly; Technical report writing; Numeracy and quantitative analysis; Use of standard software tools (e.g. MS Office)."
-      ],
-      "preferred_requirements": [
-        "C1) is required"
-      ],
-      "duration": "year in industry",
-      "url": "https://www.gradcracker.com/hub/1351/risktec-solutions/graduate-job/81224/junior-graduate-engineer-fluent-in-dutch"
-    },
-    {
-      "title": "Graduate CFD Engineer",
-      "company": "TotalSim CFD",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": null,
-      "work_mode": "Onsite",
-      "location": "Charwelton (Northamptonshire)",
-      "subject_tags": [
-        "Mechanical",
-        "Aerodynamics",
-        "Physics",
-        "Maths"
-      ],
-      "job_description": "We are looking for a Graduate CFD Engineer to join our expanding consultancy team. The role will involve working across a wide range of industrial CFD projects and modelling a diverse spread of physics. Candidates should have a relevant engineering degree at 2:1 level or higher from a leading University. They should have an interest in fluid mechanics, computational modelling and technical problem solving. This role will be based at our offices in Charwelton nr Daventry, UK. The ideal candidate will be enthusiastic, meticulous, analytical, and have excellent communication skills for working directly with the rest of the team and industrial clients. TotalSim CFD will provide all training for the successful applicant.",
-      "minimum_requirements": [
-        "Excellent numerical, analytical and communication skills. Be thorough in their approach to work and attentive to accuracy and detail. Have permission to work in the UK indefinitely (not through a time limited academic visa). Hold a relevant engineering degree with a minimum grade of 2:1 from a leading university."
-      ],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1276/totalsim-cfd/graduate-job/81434/graduate-cfd-engineer"
-    },
-    {
-      "title": "Weapon Engineer Officer (Submariner)",
-      "company": "Royal Navy",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£34,676 + £27,000 joining bonus",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Dartmouth then UK & International Travel",
-      "subject_tags": [
-        "Electrical",
-        "Electronic",
-        "Mechanical",
-        "Robotics",
-        "Cyber",
-        "Maths",
-        "Physics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6629/weapon-engineer-officer-submariner"
-    },
-    {
-      "title": "Graduate Cloud Software Engineer (2026 start)",
-      "company": "Cambridge Consultants",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Cambridge",
-      "subject_tags": [
-        "AI/Machine Learning",
-        "Computer Science",
-        "Software",
-        "Web Development"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/77914/graduate-cloud-software-engineer-2026-start"
-    },
-    {
-      "title": "Graduate Cloud Consultant",
-      "company": "Reply",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London",
-      "subject_tags": [
-        "Computing",
-        "IT",
-        "Software",
-        "Web Development"
-      ],
-      "job_description": "Build and manage our customers' cloud environments to enable application deployments based on Amazon Web Services, Google Cloud Platform or Microsoft Azure. Engineer solutions on cloud platforms using Infrastructure As Code methods (e.g. Terraform) Integrate, configure, deploy and manage centrally provided common cloud services (e.g. IAM, networking, logging, Operating systems, Containers) Ensure compliance with Security and Operational risk standards (e.g. Network, Firewall, OS, Logging, Monitoring, Availability, Resiliency) Build and support continuous integration (CI), continuous delivery (CD) and continuous testing activities",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81106/graduate-cloud-consultant"
-    },
-    {
-      "title": "Graduate Landscape Architecture",
-      "company": "Arup",
-      "deadline": "June 26th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London, Southampton, Leeds and Sheffield",
-      "subject_tags": [
-        "Landscape Architecture",
-        "Geography",
-        "Environmental Science"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/80942/graduate-landscape-architecture"
-    },
-    {
-      "title": "Service Desk Associate",
-      "company": "Tata Consultancy Services (TCS)",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London",
-      "subject_tags": [
-        "IT",
-        "Software",
-        "Project Management"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/727/tata-consultancy-services-tcs/graduate-job/81044/service-desk-associate"
-    },
-    {
-      "title": "Data & Analytics Research Fellowship",
-      "company": "Oliver Wyman",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Newcastle upon Tyne",
-      "subject_tags": [
-        "Maths",
-        "Statistics",
-        "Data",
-        "Analytics",
-        "Physics",
-        "Computer Science"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/76939/data-and-analytics-research-fellowship"
-    },
-    {
-      "title": "R&D Post-Doctoral Placement",
-      "company": "Procter & Gamble",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£55,000",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Newcastle",
-      "subject_tags": [
-        "Chemistry",
-        "Analytics"
-      ],
-      "job_description": "Ready to fuel the success of globally renowned brands that millions of consumers can’t live without? Ever dreamt of a career where you are fully supported by world-class training and development to progress to leadership? Then apply for our R&D Post-Doctoral Analytical 24 Month Placement at our Newcastle Innovation Centre! Our Researchers at P&G go to work, making and improving the products for billions of consumers who use products like Ariel, Fairy, Lenor every single day. We are talking big innovations, groundbreaking technology, state-of-the-art labs, micro-scale plants and a team full of inventors to make this happen. Why start your career at P&G UK? Hear from our recent graduates on why P&G is the perfect place to kickstart your career. Design and execute advanced laboratory experiments focused on volatile and semi-volatile analysis using gas chromatography-mass spectrometry (GC-MS). Develop, validate, and implement novel analytical methods, particularly leveraging advanced sample introduction techniques like Headspace Solid-Phase Microextraction (HS-SPME) and Thermal Desorption (TD). Analyse and interpret complex analytical data to provide actionable insights and guide technology development for our project teams. Collaborate closely with a cross-functional team of senior scientists, engineers, and product developers to drive R&D initiatives and deliver on key business objectives. Take ownership of critical analytical instrumentation, including routine maintenance, troubleshooting, and performance optimization. Communicate findings effectively through technical reports, data summaries, and presentations to both technical and non-technical stakeholders.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": "24 Month",
-      "url": "https://www.gradcracker.com/hub/55/procter-and-gamble/graduate-job/81096/r-and-d-post-doctoral-placement"
-    },
-    {
-      "title": "Technical Support Machine Control",
-      "company": "Flannery Plant Hire (Oval) Ltd",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Birmingham",
-      "subject_tags": [
-        "Civil",
-        "Construction"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/951/flannery-plant-hire-oval-ltd/graduate-job/38208/technical-support-machine-control"
-    },
-    {
-      "title": "Chemist",
-      "company": "Veolia UK",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£27,000 - £33,000",
-      "country": null,
-      "work_mode": "Onsite",
-      "location": "Various locations",
-      "subject_tags": [
-        "Chemistry",
-        "Chemical"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/508/veolia-uk/graduate-job/80780/chemist"
-    },
-    {
-      "title": "Graduate Civil Engineer - Regulated Water",
-      "company": "Jacobs",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Belfast",
-      "subject_tags": [
-        "Civil",
-        "Environment",
-        "Water"
-      ],
-      "job_description": "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/41/jacobs/graduate-job/81321/graduate-civil-engineer-regulated-water"
-    },
-    {
-      "title": "Graduate Devops Engineer, AWS",
+      "title": "2026 Applied Scientist Intern, 3-6 Months (Must be studying towards a Master's/PhD)",
       "company": "Amazon",
-      "deadline": "Ongoing",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Thames Valley",
+      "location": "London, Cambridge and Edinburgh",
       "subject_tags": [
-        "Computer Science",
-        "Systems",
-        "Software",
-        "Web Development"
+        "Computing/Technology"
       ],
-      "job_description": "AWS Utility Computing (UC) provides product innovations – from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organisation, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialised security solutions for their cloud services. Why Amazon? Mohammed studied electronic & electrical engineering at university. Find out why he chose to pursue a career at Amazon. To watch the full Gradcracker/Amazon webinar, click here . This region service team is a customer experience-oriented team which is looking for a self-motivated talented engineer who can solve complex problems and have a vision to improvise the service support. We are looking for a skilled engineer who brings a mix of operations and networking expertise and shares our passion to change the way our customers operate. A systems engineer will be driving the opportunities to automate and simplify the daily operations and scales the organisational operations.",
+      "job_description": "Are you a MS or PhD student interested in a 2026 internship in the field of machine learning, deep learning, generative AI, large language models and speech technology, robotics, computer vision, optimisation, operations research, quantum computing, automated reasoning, or formal methods? If so, we want to hear from you! We are looking for students interested in using a variety of domain expertise to invent, design and implement state-of-the-art solutions for never-before-solved problems. Applying to Amazon Recruiter Kristina outlines the application process for students and graduates applying to Amazon, and our panellists also share some great hints and tips. To watch the full Gradcracker/Amazon webinar, click here .",
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/956/amazon/graduate-job/76802/graduate-devops-engineer-aws"
+      "url": "https://www.gradcracker.com/hub/956/amazon/graduate-job/80982/2026-applied-scientist-intern-3-6-months-must-be-studying-towards-a-masters-phd"
     },
     {
-      "title": "Account Manager (Spanish Speaker)",
-      "company": "TPP",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£60,000",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Leeds",
-      "subject_tags": [
-        "Business",
-        "Marketing",
-        "Communications"
-      ],
-      "job_description": null,
-      "minimum_requirements": [
-        "Predicted 2:1 or above at degree level Minimum AAB at A-level Native-level proficiency in Spanish (speaking and writing) Adept in English (writing and speaking) International equivalents are accepted, see below for details. Successful candidates will usually be contacted within two weeks. Please be aware that applications will be kept on file for up to 12 months."
-      ],
-      "preferred_requirements": [],
-      "duration": "12 months",
-      "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/52761/account-manager-spanish-speaker"
-    },
-    {
-      "title": "Graduate Field Service Engineer",
-      "company": "Endress+Hauser",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£32,000 - 35,000 + Company car",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Reading and Swindon",
-      "subject_tags": [
-        "Electrical",
-        "Electronics",
-        "Mechanical",
-        "C&I"
-      ],
-      "job_description": "At Endress+Hauser, progress happens by working together. As the global leader in measurement instrumentation, our ~17,000 employees shape the future of process automation. From developing and delivering innovative technologies to supporting customers across a wide range of industries, we build trusted relationships that help people and businesses thrive. As a family-owned company, we take a long-term view — investing in our people, our customers, and a sustainable future. Discover what drives us This video showcases how we unite passion, innovation, and respect to create a workplace where every role drives and contributes to global progress. As a Graduate Field Service Engineer, you will begin your engineering career in a hands-on, customer-facing role where you will be supported through structured training, mentoring, and on-the-job learning. You will work alongside experienced engineers to service, calibrate, commission, and support electronic and mechanical process control instrumentation across a variety of industries. This role is designed for recent graduates who are keen to develop strong technical foundations, problem-solving skills, and professional confidence in a real-world engineering environment. You will gradually build responsibility as your capability grows, with clear development pathways and long-term career opportunities within Endress+Hauser.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/793/endresshauser/graduate-job/79784/graduate-field-service-engineer"
-    },
-    {
-      "title": "Graduate Buildng Civil Infrastructure - 2026 Graduate Programme",
-      "company": "Arup",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "Ireland",
-      "work_mode": "Onsite",
-      "location": "Cork and Dublin",
-      "subject_tags": [
-        "Civil",
-        "Structural",
-        "Infrastructure"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/80165/graduate-buildng-civil-infrastructure-2026-graduate-programme"
-    },
-    {
-      "title": "Account Manager (Mandarin Speaker)",
-      "company": "TPP",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£60,000",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Leeds",
-      "subject_tags": [
-        "Marketing",
-        "Business",
-        "Communications"
-      ],
-      "job_description": null,
-      "minimum_requirements": [
-        "Predicted 2:1 or above at degree level Minimum AAB at A-level Native-level proficiency in Mandarin (speaking and writing) Adept in English (writing and speaking) International equivalents are accepted, see below for details. Successful candidates will usually be contacted within two weeks. Please be aware that applications will be kept on file for up to 12 months."
-      ],
-      "preferred_requirements": [],
-      "duration": "12 months",
-      "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/52994/account-manager-mandarin-speaker"
-    },
-    {
-      "title": "Graduate M&E Engineers",
-      "company": "CBG Consultants",
-      "deadline": "Ongoing",
+      "title": "Graduate Environmental Water Quality Consultant - Water - 2027",
+      "company": "Stantec",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Hybrid",
-      "location": "Oxford",
-      "subject_tags": [
-        "Mechanical",
-        "Electrical",
-        "Electronics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1336/cbg-consultants/graduate-job/80198/graduate-m-and-e-engineers"
-    },
-    {
-      "title": "Graduate Transport Planner",
-      "company": "AECOM",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Bristol",
-      "subject_tags": [
-        "Transport Planning",
-        "Civil",
-        "Geography",
-        "Economics",
-        "Maths"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/60/aecom/graduate-job/80959/graduate-transport-planner"
-    },
-    {
-      "title": "Trainee Project Manager - Construction",
-      "company": "Burns & McDonnell",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
       "location": "Glasgow",
       "subject_tags": [
-        "Civil",
-        "Construction Management",
-        "Project Management",
-        "Quantity Surveying"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/1432/burns-and-mcdonnell/graduate-job/81189/trainee-project-manager-construction"
+      "url": "https://www.gradcracker.com/hub/44/stantec/graduate-job/82018/graduate-environmental-water-quality-consultant-water-2027"
     },
     {
-      "title": "Graduate Building Sustainability Consultant",
-      "company": "AECOM",
-      "deadline": "Ongoing",
+      "title": "Service Analyst",
+      "company": "TPP",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Manchester",
-      "subject_tags": [
-        "Environmental Science",
-        "Sustainability",
-        "Building Services"
-      ],
-      "job_description": "With support from the wider team, you may be involved in: Assisting with environmental certifications such as BREEAM, DREAM, LEED, and Home Quality Mark (training provided) Preparing circular economy and sustainability statements for development projects Supporting life cycle and embodied carbon assessments Developing energy and sustainability strategies to support design teams and planning applications Contributing to research and policy work relating to sustainable buildings and climate resilience Conducting energy audits and identifying efficiency improvements for existing buildings Supporting heat network feasibility studies and concept designs The successful candidate will be expected to work on defence and security-built environment projects.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/60/aecom/graduate-job/80615/graduate-building-sustainability-consultant"
-    },
-    {
-      "title": "2026 Ireland Graduate Electrical Engineering Career Path: Building Services",
-      "company": "Mott MacDonald",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "Ireland / United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Cork and Belfast",
-      "subject_tags": [
-        "Electrical",
-        "Building Services",
-        "Energy",
-        "Renewables"
-      ],
-      "job_description": "Before making an application, please browse all graduate opportunities available as we will only accept one application per candidate. Once you have made an application you will not be able to make changes to your selection or make a new application. The exception is if we open new vacancies in the new year. To avoid missing out on your preferred role, we recommend applying as early as possible, as positions will close once filled. Turn your ambition into action - apply now and shape your future with us. Join the Early Careers Development Programme at Mott MacDonald (UK & Ireland) Accelerate your future with our Early Careers Development Programme. All graduates join a a three-year development programme that introduces the key business and commercial competencies needed to succeed at the company.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/81198/2026-ireland-graduate-electrical-engineering-career-path-building-services"
-    },
-    {
-      "title": "Graduate Civil Engineer",
-      "company": "Structa",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
+      "salary": "£45,000",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Swindon (Wiltshire)",
+      "location": "Leeds",
       "subject_tags": [
-        "Civil",
-        "Infrastructure. 2 vacancies"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1472/structa/graduate-job/81271/graduate-civil-engineer"
-    },
-    {
-      "title": "Cybersecurity Analyst",
-      "company": "Jane Street",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London",
-      "subject_tags": [
-        "Cyber",
-        "Computing",
-        "IT",
-        "Data"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/820/jane-street/graduate-job/72132/cybersecurity-analyst"
-    },
-    {
-      "title": "Intelligence Officer",
-      "company": "Royal Air Force",
-      "deadline": "June 30th, 2026",
-      "salary_listed": true,
-      "salary": "Pay during Initial Officer training: £34,600",
-      "country": "International",
-      "work_mode": "Onsite",
-      "location": "Multiple Worldwide Locations",
-      "subject_tags": [
-        "Analytics",
-        "Aeronautical",
-        "Mechanical",
-        "Electronics",
-        "Aerospace"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [
-        "An accredited Bachelor's or Master's degree in an appropriate engineering, computing or scientific subject (other degrees may be accepted at the discretion of the Engineer specialist, please apply and this will be assessed on a case by case basis) Degrees must be accredited by one or more of the 4 professional engineering institutions most closely aligned to the organisation’s needs: the Royal Aeronautical Society (RAeS); the Institution of Mechanical Engineers (IMechE); the Institution of Engineering and Technology (IET); or (for CE officers only) the British Computer Society (BCS). Other engineering degrees might be accepted at the discretion of the Engineer Specialist, please apply and this will be assessed on a case by case basis. Applicants must also have GCSE at Grade C/4 or Scottish National Equivalent (SNE) grade 5 in English Language. Be aged between 17.5 - 47 Whether or not you were born in the United Kingdom, you should have resided there for the 5 years immediately preceding your application. However, candidates with a minimum of 3 years will be considered. Pass the Officer and Aircrew selection centre Pre-joining fitness tests - find out more"
+        "Predicted 2:2 or above at degree level A levels or equivalent Note that due to the high volume of applications, candidates failing to pass the initial selection will not be notified. Successful candidates will usually be contacted within two weeks. We reimburse applicants for travel to and from interviews. Please be aware that applications will be kept on file for up to 12 months."
       ],
       "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/500/royal-air-force/graduate-job/72234/intelligence-officer"
+      "duration": "12 months",
+      "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/27748/service-analyst"
     },
     {
-      "title": "Graduate JavaScript/TypeScript UI Engineer (2026 start)",
-      "company": "Cambridge Consultants",
-      "deadline": "Ongoing",
+      "title": "Graduate Software Engineer",
+      "company": "System Devices",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Cambridge",
-      "subject_tags": [
-        "AI/Machine Learning",
-        "Computer Science",
-        "Software",
-        "Web Development"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/81218/graduate-javascript-typescript-ui-engineer-2026-start"
-    },
-    {
-      "title": "Graduate Technology Consultant Programme (October 2026 start)",
-      "company": "Sigma Labs",
-      "deadline": "August 2nd, 2026",
-      "salary_listed": true,
-      "salary": "£30,000 in year 1, £38,000 in year 2",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Multiple UK Locations",
-      "subject_tags": [
-        "Data Science",
-        "Computer Science",
-        "Software",
-        "IT",
-        "Cyber"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/973/sigma-labs/graduate-job/78925/graduate-technology-consultant-programme-october-2026-start"
-    },
-    {
-      "title": "Graduate Engineer",
-      "company": "Osprey Group",
-      "deadline": "June 26th, 2026",
-      "salary_listed": true,
-      "salary": "£28,000 - £32,000 (depending on experience)",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Cramlington (Northumberland)",
-      "subject_tags": [
-        "Mechanical",
-        "Civil",
-        "Construction",
-        "Structural"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1470/osprey-group/graduate-job/81102/graduate-engineer"
-    },
-    {
-      "title": "Graduate - Supply Chain - Scheduling - Customer Service",
-      "company": "Bosch",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Birmingham",
-      "subject_tags": [
-        "Business",
-        "Supply Chain & Logistics",
-        "Data Science",
-        "Analytics"
-      ],
-      "job_description": "At Bosch Rexroth, everything revolves around movement and the success of our customers. With our networked drive and control technologies as well as digital solutions, their machines and systems work efficiently, safely and powerfully. We offer components, system solutions and services for mobile and industrial applications as well as for factory automation. Joining Bosch All about starting out at Bosch as a graduate In all areas, we value the know-how and commitment of our employees and enable dynamic careers in an international environment. Around 33,800 people in over 80 countries - and one corporate purpose: \"We move industries to make our planet a better place.\" Do you want to make a difference? Then we look forward to receiving your application to Bosch Rexroth AG.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/400/bosch/graduate-job/81173/graduate-supply-chain-scheduling-customer-service"
-    },
-    {
-      "title": "Graduate Advisor - Sustainability",
-      "company": "GHD Engineering",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Manchester, Newcastle, London and Guildford (Surrey)",
-      "subject_tags": [
-        "Sustainability",
-        "Geography",
-        "Environmental"
-      ],
-      "job_description": null,
-      "minimum_requirements": [
-        "A degree (or post-graduate qualification) in sustainability, environmental or engineering related discipline. 0-2 years of professional experience related to the role. Able to attend the office a minimum of 3 days per week (London, Newcastle, Manchester, or Guildford). Desirable (but not essential) Experience or interest in one or more of the following: Ecology or biodiversity Natural capital valuation or environmental economics Risk assessment and reporting- nature, climate, or any other sustainability topics Greenhouse gas quantification or reporting or whole life carbon emissions reduction Nature finance Sustainable finance Personal qualities Strong analytical mindset and attention to detail Curiosity and willingness to learn new technical frameworks and tools Ability to work collaboratively in a consultancy environment Enthusiasm for developing a career in sustainability and environmental consulting"
-      ],
-      "preferred_requirements": [],
-      "duration": "3 days",
-      "url": "https://www.gradcracker.com/hub/1168/ghd-engineering/graduate-job/80967/graduate-advisor-sustainability"
-    },
-    {
-      "title": "Trainee Assembler",
-      "company": "Honeywell",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Edinburgh",
-      "subject_tags": [
-        "Mechanical",
-        "Manufacturing"
-      ],
-      "job_description": "Do you enjoy making things, fixing, fishing, crochet, Warhammer, needlework, Lego, Hornby, making jewellery, or any other hobbies or activity that involve manual dexterity? You can create a great career with this skill here at Honeywell. Please read on! As a trainee Assembler at Honeywell, in West Edinburgh, you will be trained to assemble and inspect products to ensure the highest quality product is provided to our customers. Products are for the defence and space industry and are at the cutting edge of technology. You will have a buddy assigned to you and work closely with experienced professionals to gain hands-on experience within a friendly and supportive team to be trained to achieve the following: Assembling cutting edge technologies, such as microwave components, under a microscope using manual tools such as tweezers and soldering equipment Working to drawings and assembly instructions Mechanical Assembly following a prescribed build process Carrying out visual quality checks and packing Labelling of finished parts Working to strict Health and Safety guidelines, always ensuring use of PPE",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/963/honeywell/graduate-job/81306/trainee-assembler"
-    },
-    {
-      "title": "Graduate Validation and Characterisation Engineer",
-      "company": "Cirrus Logic",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Edinburgh",
-      "subject_tags": [
-        "Electronic",
-        "Electrical"
-      ],
-      "job_description": "We have an exciting opportunity to be part of a collaborative, cross-functional development team validating and characterising advanced mixed-signal products. You will play a critical role in supporting new product introductions and post-silicon validation. Our high-performance chips enable an incredible mixed-signal experience with highly integrated, platform-level functionality while delivering the lowest power consumption and highest efficiency. As a Graduate Validation and Characterisation Engineer, you will work closely with our cross-functional teams and will learn how our exceptional products work. You will have the opportunity to work alongside our world-class team to investigate product operation, designing high-performance PCBs and automated software along the way. We value continuous improvement, and your input will help to shape test infrastructure and processes. Bench test, debug, and characterisation of embedded on-chip circuitry (amplifiers, data converters, power converters, etc.) to ensure functionality and performance as per the datasheet. Design, develop, and debug silicon validation and characterisation board-level hardware and bring-up the platforms prior to first silicon. Develop automated test framework and regression test suites in Python to optimise validation efficiency. Work with Validation and Production Test engineering peers to implement best practices and continuous improvements to Cirrus Logic backend test methodologies. Collaborate closely with Design Engineers, Systems Engineers, and Application Engineers to understand requirements and use cases. Analyse test results and identify failures/defects using business intelligence tools such as Spotfire, Excel and JMP. Support and develop automation software for test equipment including NI STS/PXIe platforms and bench-top instruments. Write technical reports/summaries of all data collected.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/105/cirrus-logic/graduate-job/79401/graduate-validation-and-characterisation-engineer"
-    },
-    {
-      "title": "Graduate Tendering Engineer",
-      "company": "Howden (A Chart Industries Company)",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Peterborough",
-      "subject_tags": [
-        "Mechanical",
-        "Electrical",
-        "Manufacturing"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1274/howden-a-chart-industries-company/graduate-job/81153/graduate-tendering-engineer"
-    },
-    {
-      "title": "Graduate Quantity Surveyor",
-      "company": "AECOM",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Exeter",
-      "subject_tags": [
-        "Construction Management",
-        "Quantity Surveying"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/60/aecom/graduate-job/81013/graduate-quantity-surveyor"
-    },
-    {
-      "title": "Graduate Landscape Architecture",
-      "company": "Arup",
-      "deadline": "June 28th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Cardiff, Bristol and Birmingham",
-      "subject_tags": [
-        "Environmental Science",
-        "Architecture",
-        "Geography",
-        "Landscape Architecture"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/81376/graduate-landscape-architecture"
-    },
-    {
-      "title": "Graduate Fire Life Safety Engineer",
-      "company": "Jacobs",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "London",
-      "subject_tags": [
-        "Mechanical",
-        "Fire"
-      ],
-      "job_description": "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good. Start your Jacobs journey today Jacobs. A world where you can. We’re always on the lookout for talented people to join our team.",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/41/jacobs/graduate-job/81047/graduate-fire-life-safety-engineer"
-    },
-    {
-      "title": "2026 Graduate Software Engineer - PyTorch",
-      "company": "Graphcore",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Bristol",
-      "subject_tags": [
-        "Computer Science",
-        "Software",
-        "Maths",
-        "Machine Learning",
-        "Data",
-        "AI"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/833/graphcore/graduate-job/80223/2026-graduate-software-engineer-pytorch"
-    },
-    {
-      "title": "Graduate AI Test Automation Engineer",
-      "company": "Reply",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London",
-      "subject_tags": [
-        "Computing",
-        "AI",
-        "Software",
-        "Data Science",
-        "IT"
-      ],
-      "job_description": "As an AI Test Automation Engineer, you will develop and maintain Python-based test automation tools You’ll collaborate on framework design and third-party tool integration In this role, you’ll define and implement test strategies for LLM behaviour validation Support continuous testing, benchmarking, and KPI tracking",
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/78976/graduate-ai-test-automation-engineer"
-    },
-    {
-      "title": "Internal Sales Representative",
-      "company": "Holcim",
-      "deadline": "July 15th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Plymouth",
-      "subject_tags": [
-        "Business",
-        "Sales"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/250/holcim/graduate-job/81463/internal-sales-representative"
-    },
-    {
-      "title": "Technology Analyst: Market Research & Consultancy",
-      "company": "IDTechEx",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "Remote",
-      "work_mode": "Remote",
-      "location": "Remote",
-      "subject_tags": [
-        "Electrical",
-        "Electronics",
-        "Physics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1227/idtechex/graduate-job/80607/technology-analyst-market-research-and-consultancy"
-    },
-    {
-      "title": "Graduate Mechanical Engineer",
-      "company": "GeoEnergy Design (GED)",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£30,000",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Birmingham",
-      "subject_tags": [
-        "Mechanical",
-        "Building Services"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1198/geoenergy-design-ged/graduate-job/81114/graduate-mechanical-engineer"
-    },
-    {
-      "title": "Maintenance Technician",
-      "company": "Dyfed-Powys Police",
-      "deadline": "July 1st, 2026",
-      "salary_listed": true,
-      "salary": "£25,950- £27,204",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Llandrindod Wells (South Wales)",
-      "subject_tags": [
-        "Mechanical",
-        "Electrical"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1258/dyfed-powys-police/graduate-job/81473/maintenance-technician"
-    },
-    {
-      "title": "PhD - Digital Design of Low-Carbon Leather Composite Textiles from Fashion and Industrial Waste",
-      "company": "National Physical Laboratory and UK Telecoms Lab",
-      "deadline": "June 30th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Teddington (London)",
-      "subject_tags": [
-        "Materials",
-        "Sustainability",
-        "Manufacturing",
-        "Data Science"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/616/national-physical-laboratory-and-uk-telecoms-lab/graduate-job/81214/phd-digital-design-of-low-carbon-leather-composite-textiles-from-fashion-and-industrial-waste"
-    },
-    {
-      "title": "Graduate Land Technician",
-      "company": "Bruton Knowles",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Multiple UK Locations",
-      "subject_tags": [
-        "Geography",
-        "Environmental Science"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1451/bruton-knowles/graduate-job/80357/graduate-land-technician"
-    },
-    {
-      "title": "Data & Analytics - 6 Months Analyst Graduate Internship",
-      "company": "Oliver Wyman",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Newcastle upon Tyne",
-      "subject_tags": [
-        "Data",
-        "Analytics",
-        "Statistics",
-        "Maths",
-        "Computer Science",
-        "ML"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/81334/data-and-analytics-6-months-analyst-graduate-internship"
-    },
-    {
-      "title": "Sales Administrator",
-      "company": "KEYENCE",
-      "deadline": "June 30th, 2026",
-      "salary_listed": true,
-      "salary": "£28,000 + £2,700 location allowance",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Uxbridge (West London)",
-      "subject_tags": [
-        "Business",
-        "Project Management",
-        "Supply Chain & Logistics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/923/keyence/graduate-job/72241/sales-administrator"
-    },
-    {
-      "title": "Graduate Specialist Programme - Manufacturing Engineering",
-      "company": "Bosch",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Glenrothes (Scotland)",
-      "subject_tags": [
-        "Manufacturing",
-        "Mechanical"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/400/bosch/graduate-job/81171/graduate-specialist-programme-manufacturing-engineering"
-    },
-    {
-      "title": "Graduate Acoustic Consultants",
-      "company": "Sol Acoustics",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Sherborne (Dorset) and Rudheath (Cheshire)",
-      "subject_tags": [
-        "Acoustics",
-        "Civil",
-        "Environmental",
-        "Maths",
-        "Physics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1246/sol-acoustics/graduate-job/58305/graduate-acoustic-consultants"
-    },
-    {
-      "title": "Supplier Engagement Advisor",
-      "company": "Valpak",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£25,500",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Stratford-upon-Avon",
-      "subject_tags": [
-        "Environment",
-        "Data",
-        "Analytics",
-        "Business",
-        "Communications"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/942/valpak/graduate-job/80634/supplier-engagement-advisor"
-    },
-    {
-      "title": "Graduate Landscape Architect",
-      "company": "SYSTRA",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Leeds, Glasgow and London",
-      "subject_tags": [
-        "Landscape Architecture",
-        "Environment"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1095/systra/graduate-job/81024/graduate-landscape-architect"
-    },
-    {
-      "title": "Ark Trainee Physics Teacher",
-      "company": "Ark Teacher Training",
-      "deadline": "June 29th, 2026",
-      "salary_listed": true,
-      "salary": "£26,000 - £31,000",
+      "salary": "Up to £30,000",
       "country": null,
       "work_mode": "Onsite",
-      "location": "Various locations",
-      "subject_tags": [],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/969/ark-teacher-training/graduate-job/72657/ark-trainee-physics-teacher"
-    },
-    {
-      "title": "Royal Logistic Corps Officer",
-      "company": "The British Army",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£35,925",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Sandhurst then UK & International Travel",
+      "location": "Runcorn (Cheshire)",
       "subject_tags": [
-        "Open to Most STEM Disciplines"
+        "Computing/Technology"
       ],
       "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/34063/royal-logistic-corps-officer"
-    },
-    {
-      "title": "Graduate Architecture - Part 2",
-      "company": "Arup",
-      "deadline": "June 26th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "London, Birmingham and Bristol",
-      "subject_tags": [
-        "Architecture"
+      "minimum_requirements": [
+        "Essential: Software Engineer with Python, Unix/Linux, REST-API and some Node Red exposure. Understanding of mechanical and/or electrical engineering fundamentals. Full driving licence and able to travel to customer sites when needed (UK wide). Must have indefinite right to work in the UK with no sponsorship required. Willingness to learn. Able to work independently. Useful: IoT or IIoT experience. Priority given to candidates looking for long-term career position."
       ],
-      "job_description": null,
-      "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/80944/graduate-architecture-part-2"
+      "url": "https://www.gradcracker.com/hub/1493/system-devices/graduate-job/81969/graduate-software-engineer"
     },
     {
-      "title": "Graduate Quantity Surveyor",
-      "company": "MWH Treatment",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Coppermills (London) and Hampton (London)",
-      "subject_tags": [
-        "Quantity Surveying",
-        "Construction Management"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/803/mwh-treatment/graduate-job/81449/graduate-quantity-surveyor"
-    },
-    {
-      "title": "Graduate Project Engineer - Electrical/EICA",
-      "company": "MWH Treatment",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Rochester (Kent), Chatham (Kent) and Falmer (Sussex)",
-      "subject_tags": [
-        "Electrical",
-        "Electronics",
-        "C&I"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/803/mwh-treatment/graduate-job/77166/graduate-project-engineer-electrical-eica"
-    },
-    {
-      "title": "FPGA Developer",
+      "title": "Data Storage R&D Engineer",
       "company": "CERN",
-      "deadline": "July 1st, 2026",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "5,266 - 5,793 Swiss Francs per month (tax free)",
+      "salary": "6,372 - 7,004 Swiss Francs per month (net of tax)",
       "country": "Switzerland",
       "work_mode": "Onsite",
       "location": "Geneva (Switzerland)",
       "subject_tags": [
-        "Computer Science",
-        "Electrical",
-        "Electronics"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/759/cern/graduate-job/81428/fpga-developer"
+      "url": "https://www.gradcracker.com/hub/759/cern/graduate-job/82083/data-storage-r-and-d-engineer"
     },
     {
-      "title": "Technical Sales Engineer",
-      "company": "Transvac",
-      "deadline": "Ongoing",
+      "title": "PhD Graduate AI & Algorithms Engineer (2026 start)",
+      "company": "Cambridge Consultants",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Alfreton (Derbyshire)",
+      "location": "Cambridge",
       "subject_tags": [
-        "Chemical",
-        "Process",
-        "Mechanical"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/215/transvac/graduate-job/71566/technical-sales-engineer"
+      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/80756/phd-graduate-ai-and-algorithms-engineer-2026-start"
     },
     {
-      "title": "Graduate Leadership Programme",
-      "company": "The British Army",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£35,925",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Sandhurst then UK & International Travel",
-      "subject_tags": [
-        "Open to Most STEM Disciplines"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/34042/graduate-leadership-programme"
-    },
-    {
-      "title": "Analog Design Engineer",
+      "title": "Graduate Validation Engineer",
       "company": "Cirrus Logic",
-      "deadline": "Ongoing",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
-      "work_mode": "Hybrid",
+      "work_mode": "Onsite",
       "location": "Edinburgh",
       "subject_tags": [
-        "Electrical",
-        "Electronic"
+        "Computing/Technology"
       ],
-      "job_description": null,
+      "job_description": "We have a fantastic opportunity for a talented engineer to join our Validation Engineering team. You will be a major contributor of the pre-silicon emulation/post-silicon validation team, passionate about bringing groundbreaking Mixed Signal Audio chips to market. Our high-performance chips enable an incredible audio experience with highly coordinated, platform level functionality while delivering the lowest power consumption and highest efficiency. You will work in a fast paced, multifaceted and creative environment and quickly become a valued part of our team. We are proud of our dynamic and creative culture, where ideas are listened to and collaboration is part of our nature. Our benefits offering includes an on-site gym, deli, development driven by you, and an environment that rivals the best in the world. Join us now on our global journey, where we strive to push limits and build ground-breaking technology for consumer markets across the globe! Develop and execute bench level tests according the validation plan during pre-silicon and post-silicon phases to ensure product meets functionality and performance as per the datasheet. Think beyond the datasheet and around design corners to find elusive bugs. Develop validation plans for IP and chip-level test cases from datasheet and in consultation with design and systems engineers. Develop test cases and customer usage models that may violate the assumptions of designers and systems engineers. Develop automated test framework, regression test suites in Python, MATLAB and/or LabVIEW to optimise validation efficiency. Work with validation peers to implement standard methodologies and continuous improvements to Cirrus Logic validation methodologies. Collaborate closely with IC Design engineers, System engineers and Application engineers to understand requirements and use cases. Perform circuit simulation to support board design. Design PCB schematics and collaborate with layout engineers to review board layouts before being released for fabrication. Debug analog/digital silicon issues, board issues and Validation software/hardware tools issues. Analyse test results and identify failures/defects using business intelligence tools such as Spotfire.",
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/105/cirrus-logic/graduate-job/78434/analog-design-engineer"
+      "url": "https://www.gradcracker.com/hub/105/cirrus-logic/graduate-job/79119/graduate-validation-engineer"
     },
     {
-      "title": "Project Officer - ICT",
-      "company": "Dyfed-Powys Police",
-      "deadline": "July 2nd, 2026",
-      "salary_listed": true,
-      "salary": "£28,914 - £30,897",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Carmarthen (South Wales)",
-      "subject_tags": [
-        "IT",
-        "Data Science",
-        "Analytics",
-        "Statistics"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1258/dyfed-powys-police/graduate-job/81474/project-officer-ict"
-    },
-    {
-      "title": "Graduate Electrical Engineer/Water (Summer 2026 start)",
-      "company": "AECOM",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Exeter",
-      "subject_tags": [
-        "Electrical Engineering"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/60/aecom/graduate-job/75523/graduate-electrical-engineer-water-summer-2026-start"
-    },
-    {
-      "title": "Graduate Specialist Programme - Technical Engineering Business Development",
-      "company": "Bosch",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": null,
-      "work_mode": "Onsite",
-      "location": "Cirencester (Gloucestershire)",
-      "subject_tags": [
-        "Mechanical",
-        "Robotics",
-        "Electrical",
-        "Manufacturing",
-        "Business"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/400/bosch/graduate-job/81168/graduate-specialist-programme-technical-engineering-business-development"
-    },
-    {
-      "title": "Graduate Data Consultant",
-      "company": "BAE Systems",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£34,000",
-      "country": null,
-      "work_mode": "Onsite",
-      "location": "Broad Oak (Sussex) and Frimley (Surrey)",
-      "subject_tags": [
-        "Data",
-        "Analytics",
-        "Statistics",
-        "Business",
-        "Maths"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/141/bae-systems/graduate-job/80882/graduate-data-consultant"
-    },
-    {
-      "title": "2026 Graduate Firmware Engineer",
-      "company": "Graphcore",
-      "deadline": "Ongoing",
+      "title": "Technology Strategy Consultant (2026 start)",
+      "company": "Cambridge Consultants",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Bristol",
+      "location": "Cambridge",
       "subject_tags": [
-        "Computer Science",
-        "Maths",
-        "Machine Learning",
-        "Data Science"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/833/graphcore/graduate-job/79139/2026-graduate-firmware-engineer"
-    },
-    {
-      "title": "Graduate Support Engineer",
-      "company": "BAE Systems",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£34,000",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Warton (Lancashire), Samlesbury (Lancashire) and Brough (East Riding of Yorkshire)",
-      "subject_tags": [
-        "Mechanical",
-        "Electrical",
-        "Aerospace",
-        "Systems"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/141/bae-systems/graduate-job/80901/graduate-support-engineer"
-    },
-    {
-      "title": "PhD - Metrology and Standardisation of Airborne eDNA (MESA-eDNA)",
-      "company": "National Physical Laboratory and UK Telecoms Lab",
-      "deadline": "June 30th, 2026",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Teddington (London)",
-      "subject_tags": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/616/national-physical-laboratory-and-uk-telecoms-lab/graduate-job/80706/phd-metrology-and-standardisation-of-airborne-edna-mesa-edna"
-    },
-    {
-      "title": "Supply Chain Analyst",
-      "company": "Crane ChemPharma & Energy",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "Competitive",
-      "country": "United Kingdom",
-      "work_mode": "Onsite",
-      "location": "Cwmbran (South Wales)",
-      "subject_tags": [
-        "Supply Chain",
-        "Analytics",
-        "Business",
-        "Finance"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1347/crane-chempharma-and-energy/graduate-job/81476/supply-chain-analyst"
+      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/81499/technology-strategy-consultant-2026-start"
     },
     {
       "title": "Graduate Business Analyst",
       "company": "Reply",
-      "deadline": "Ongoing",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Onsite",
       "location": "London",
       "subject_tags": [
-        "IT",
-        "Data",
-        "Computer Science",
-        "Business",
-        "Analytics"
+        "Computing/Technology"
+      ],
+      "job_description": "As a Graduate Business Analyst within Sprint Reply, you’ll support the accelerated growth of the organisation by helping to develop new propositions, creating use cases for intelligent automation tools, acquiring new clients and supporting business development as well as delivering projects. You’ll be responsible for: Collaborating with clients on the implementation of optimisation and technology projects - acting as catalyst for sustainable cost-effective change - helping clients to shape the scope, approach and structure of a wide variety of projects Contributing to the selection of analysis and delivery methods, tools and techniques for projects; selecting appropriately from predictive (plan-driven) and adaptive (iterative/agile) approaches You'll be instrumental in creating new and potentially disruptive approaches to performing business activities and investigating operational requirements, problems, and opportunities Seeking cost effective, sustainable business solutions through improvements in automated and non-automated components of new or changed processes Identifying discrete opportunities to reduce cost, ensure quality, improve efficiency, enhance the client service and improve the work / life balance of the team Providing implementation support to assess organisational capabilities and to identify, prioritise and implement improvements and developing tailored change management plans",
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81720/graduate-business-analyst"
+    },
+    {
+      "title": "Graduate Water Networks Modeller - Water - 2027",
+      "company": "Stantec",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": null,
+      "work_mode": "Hybrid",
+      "location": "Warrington",
+      "subject_tags": [
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81105/graduate-business-analyst"
+      "url": "https://www.gradcracker.com/hub/44/stantec/graduate-job/82037/graduate-water-networks-modeller-water-2027"
     },
     {
-      "title": "Graduate Architectural Assistant - Part 1",
-      "company": "AECOM",
-      "deadline": "Ongoing",
+      "title": "Graduate Programmes - 2027",
+      "company": "WTW",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Multiple UK Locations",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": "Transform your tomorrow by registering your interest today.",
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/294/wtw/graduate-job/79913/graduate-programmes-2027"
+    },
+    {
+      "title": "Graduate Business Analyst",
+      "company": "Reply",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London and Manchester",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": "As a Graduate Business Analyst within Sprint Reply, you’ll support the accelerated growth of the organisation by helping to develop new propositions, creating use cases for intelligent automation tools, acquiring new clients and supporting business development as well as delivering projects. You’ll be responsible for: Collaborating with clients on the implementation of optimisation and technology projects - acting as catalyst for sustainable cost-effective change - helping clients to shape the scope, approach and structure of a wide variety of projects Contributing to the selection of analysis and delivery methods, tools and techniques for projects; selecting appropriately from predictive (plan-driven) and adaptive (iterative/agile) approaches You'll be instrumental in creating new and potentially disruptive approaches to performing business activities and investigating operational requirements, problems, and opportunities Seeking cost effective, sustainable business solutions through improvements in automated and non-automated components of new or changed processes Identifying discrete opportunities to reduce cost, ensure quality, improve efficiency, enhance the client service and improve the work / life balance of the team Providing implementation support to assess organisational capabilities and to identify, prioritise and implement improvements and developing tailored change management plans",
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/81583/graduate-business-analyst"
+    },
+    {
+      "title": "2027 Full-Time Analyst Programme - Investments - Quantitative Investing",
+      "company": "BlackRock",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": "The Full-Time Analyst Programme is for candidates who graduated with a Bachelor’s or Master’s degree between June 2026 - July 2027. Please note the Analyst Programme start date is in August, with earlier start dates considered. Our Full-Time Analyst Programme is a two-year experience designed to empower and support Analysts in connecting their personal passions and strengths to BlackRock’s mission, principles and purpose. The programme begins with an orientation to learn about our purpose, business and strategic priorities - all while gaining insights into the day-to-day life of an Analyst at BlackRock. Students & Graduates application tips If you're applying to our student and graduate programming, check out this video for application tips that will help you throughout your application process. Following orientation, Analysts join their teams and stay connected with colleagues across the globe through ongoing training and professional development. This programme offers Analysts the chance to have a lasting impact on the firm and contribute to our greater collective purpose of helping more and more people experience financial well-being.",
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81620/2027-full-time-analyst-programme-investments-quantitative-investing"
+    },
+    {
+      "title": "Herbert Smith Freehills Kramer Trainee Associate Programme",
+      "company": "Herbert Smith Freehills Kramer",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "£56,000",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "London",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": null,
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/849/herbert-smith-freehills-kramer/graduate-job/62912/herbert-smith-freehills-kramer-trainee-associate-programme"
+    },
+    {
+      "title": "Graduate Water Networks Modeller - Water - 2027",
+      "company": "Stantec",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Hybrid",
-      "location": "London",
+      "location": "Reading",
       "subject_tags": [
-        "Architecture",
-        "Civil"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/60/aecom/graduate-job/80662/graduate-architectural-assistant-part-1"
-    },
-    {
-      "title": "Ark Trainee Computing Teacher",
-      "company": "Ark Teacher Training",
-      "deadline": "June 29th, 2026",
-      "salary_listed": true,
-      "salary": "£26,000 - £31,000",
-      "country": null,
-      "work_mode": "Onsite",
-      "location": "Various locations",
-      "subject_tags": [],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/969/ark-teacher-training/graduate-job/72655/ark-trainee-computing-teacher"
+      "url": "https://www.gradcracker.com/hub/44/stantec/graduate-job/82040/graduate-water-networks-modeller-water-2027"
     },
     {
       "title": "Weapon Engineer Officer",
       "company": "Royal Navy",
-      "deadline": "Ongoing",
+      "deadline": null,
       "salary_listed": true,
       "salary": "£34,676 + £27,000 joining bonus",
       "country": "United Kingdom",
       "work_mode": "Onsite",
       "location": "Dartmouth then UK & International Travel",
       "subject_tags": [
-        "Electrical",
-        "Electronic",
-        "Mechanical",
-        "Robotics",
-        "Cyber",
-        "Maths",
-        "Physics"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
@@ -1458,187 +296,202 @@
       "url": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6628/weapon-engineer-officer"
     },
     {
-      "title": "Software Engineer",
-      "company": "Rocket Software",
-      "deadline": "Ongoing",
+      "title": "2026 Graduate Silicon Engineer",
+      "company": "Graphcore",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
-      "country": null,
-      "work_mode": "Hybrid",
-      "location": "Newbury (Berkshire)",
-      "subject_tags": [
-        "Software",
-        "Computer Science",
-        "IT"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/1376/rocket-software/graduate-job/81073/software-engineer"
-    },
-    {
-      "title": "Fluid Mechanics Project Engineer",
-      "company": "Engineering CFD",
-      "deadline": "Ongoing",
-      "salary_listed": true,
-      "salary": "£27,500 - £31,800",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Sheffield",
+      "location": "Bristol",
       "subject_tags": [
-        "Mechanical",
-        "Aerospace",
-        "Maths",
-        "Physics"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/1295/engineering-cfd/graduate-job/81385/fluid-mechanics-project-engineer"
+      "url": "https://www.gradcracker.com/hub/833/graphcore/graduate-job/81678/2026-graduate-silicon-engineer"
     },
     {
-      "title": "Graduate Developer/Consultant",
-      "company": "Alscient",
-      "deadline": "Ongoing",
+      "title": "Weapon Engineer Officer (Submariner)",
+      "company": "Royal Navy",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "£38,000",
+      "salary": "£34,676 + £27,000 joining bonus",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Dartmouth then UK & International Travel",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": null,
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6629/weapon-engineer-officer-submariner"
+    },
+    {
+      "title": "Graduate Software Developer",
+      "company": "TPP",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Minimum £60,000 (depending on experience)",
       "country": "United Kingdom",
       "work_mode": "Onsite",
       "location": "Leeds",
       "subject_tags": [
-        "IT",
-        "Computer Science",
-        "Web Development",
-        "Software",
-        "AI"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/1213/alscient/graduate-job/81034/graduate-developer-consultant"
+      "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/71576/graduate-software-developer"
     },
     {
-      "title": "Graduate Civil Engineer - Infrastructure - 2026",
-      "company": "Stantec",
-      "deadline": "Ongoing",
+      "title": "2027 Full-Time Analyst Programme - Client & Product Functions - Sales & Relationship Management - FinTech Platform",
+      "company": "BlackRock",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
-      "work_mode": "Hybrid",
-      "location": "Northampton",
-      "subject_tags": [
-        "Building Services",
-        "Civil",
-        "Infrastructure"
-      ],
-      "job_description": null,
-      "minimum_requirements": [],
-      "preferred_requirements": [],
-      "duration": null,
-      "url": "https://www.gradcracker.com/hub/44/stantec/graduate-job/79136/graduate-civil-engineer-infrastructure-2026"
-    },
-    {
-      "title": "Engineer Officer - Aerosystems",
-      "company": "Royal Air Force",
-      "deadline": "June 30th, 2026",
-      "salary_listed": true,
-      "salary": "Pay during Initial Officer training: £34,600",
-      "country": "International",
       "work_mode": "Onsite",
-      "location": "Multiple Worldwide Locations",
+      "location": "London, Edinburgh and Milan",
       "subject_tags": [
-        "Aerospace",
-        "Mechanical",
-        "Electronic",
-        "Electrical"
+        "Computing/Technology"
       ],
-      "job_description": null,
+      "job_description": "The Full-Time Analyst Programme is for candidates who graduated with a Bachelor’s or Master’s degree between June 2026 - July 2027. Please note the Analyst Programme start date is in August, with earlier start dates considered. Our Full-Time Analyst Programme is a two-year experience designed to empower and support Analysts in connecting their personal passions and strengths to BlackRock’s mission, principles and purpose. The programme begins with an orientation to learn about our purpose, business and strategic priorities - all while gaining insights into the day-to-day life of an Analyst at BlackRock. Students & Graduates application tips If you're applying to our student and graduate programming, check out this video for application tips that will help you throughout your application process. Following orientation, Analysts join their teams and stay connected with colleagues across the globe through ongoing training and professional development. This programme offers Analysts the chance to have a lasting impact on the firm and contribute to our greater collective purpose of helping more and more people experience financial well-being.",
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/500/royal-air-force/graduate-job/15174/engineer-officer-aerosystems"
+      "url": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81590/2027-full-time-analyst-programme-client-and-product-functions-sales-and-relationship-management-fintech-platform"
     },
     {
-      "title": "The Island Free School - Trainee Teacher (Maths)",
-      "company": "Ark Teacher Training",
-      "deadline": "June 29th, 2026",
+      "title": "GE Power Conversion & Storage Graduate Engineering Training Programme - Electrical",
+      "company": "GE Vernova",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "£29,000 - £31,000",
+      "salary": "Competitive",
       "country": null,
       "work_mode": "Onsite",
-      "location": "The Island Free School (The Isle of Wight)",
-      "subject_tags": [],
+      "location": "Rugby (West Midlands)",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/969/ark-teacher-training/graduate-job/81415/the-island-free-school-trainee-teacher-maths"
+      "url": "https://www.gradcracker.com/hub/1185/ge-vernova/graduate-job/82077/ge-power-conversion-and-storage-graduate-engineering-training-programme-electrical"
     },
     {
-      "title": "2026 Graduate Electrical Engineer",
-      "company": "Hoare Lea",
-      "deadline": "Ongoing",
+      "title": "Graduate Electronics & Software Engineer (2026 start)",
+      "company": "Cambridge Consultants",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Onsite",
+      "location": "Cambridge",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": null,
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/1088/cambridge-consultants/graduate-job/78825/graduate-electronics-and-software-engineer-2026-start"
+    },
+    {
+      "title": "Cloud Operations & Infrastructure Graduate",
+      "company": "AVEVA Solutions",
+      "deadline": null,
       "salary_listed": true,
       "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Hybrid",
-      "location": "London",
+      "location": "Cambridge",
       "subject_tags": [
-        "Building Services",
-        "Electrical",
-        "Electronics",
-        "C&I"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/213/hoare-lea/graduate-job/80648/2026-graduate-electrical-engineer"
+      "url": "https://www.gradcracker.com/hub/202/aveva-solutions/graduate-job/80522/cloud-operations-and-infrastructure-graduate"
     },
     {
-      "title": "PhD - Robust Low-Dimensional Representations for Noisy Real-World Data",
-      "company": "National Physical Laboratory and UK Telecoms Lab",
-      "deadline": "July 12th, 2026",
+      "title": "Graduate - Supply Chain - Scheduling - Customer Service",
+      "company": "Bosch",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "£25,805",
+      "salary": "Competitive",
       "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Teddington (London)",
+      "location": "Birmingham",
       "subject_tags": [
-        "Maths",
-        "Analytics",
-        "Data",
-        "Computer Science",
-        "Physics",
-        "AI"
+        "Computing/Technology"
       ],
-      "job_description": null,
+      "job_description": "At Bosch Rexroth, everything revolves around movement and the success of our customers. With our networked drive and control technologies as well as digital solutions, their machines and systems work efficiently, safely and powerfully. We offer components, system solutions and services for mobile and industrial applications as well as for factory automation. Joining Bosch All about starting out at Bosch as a graduate In all areas, we value the know-how and commitment of our employees and enable dynamic careers in an international environment. Around 33,800 people in over 80 countries - and one corporate purpose: \"We move industries to make our planet a better place.\" Do you want to make a difference? Then we look forward to receiving your application to Bosch Rexroth AG.",
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/616/national-physical-laboratory-and-uk-telecoms-lab/graduate-job/80712/phd-robust-low-dimensional-representations-for-noisy-real-world-data"
+      "url": "https://www.gradcracker.com/hub/400/bosch/graduate-job/81173/graduate-supply-chain-scheduling-customer-service"
     },
     {
-      "title": "HSE Communications Support Officer",
-      "company": "CERN",
-      "deadline": "June 23rd, 2026",
+      "title": "2026 Graduate Scheme",
+      "company": "Midsummer Energy Ltd",
+      "deadline": null,
       "salary_listed": true,
-      "salary": "5,266 - 5,793 Swiss Francs per month (tax free)",
-      "country": "Switzerland",
+      "salary": "£30,000",
+      "country": "United Kingdom",
       "work_mode": "Onsite",
-      "location": "Geneva (Switzerland)",
+      "location": "Milton (Cambridge)",
       "subject_tags": [
-        "Communications",
-        "Marketing"
+        "Computing/Technology"
       ],
       "job_description": null,
       "minimum_requirements": [],
       "preferred_requirements": [],
       "duration": null,
-      "url": "https://www.gradcracker.com/hub/759/cern/graduate-job/81292/hse-communications-support-officer"
+      "url": "https://www.gradcracker.com/hub/1012/midsummer-energy-ltd/graduate-job/79955/2026-graduate-scheme"
+    },
+    {
+      "title": "Graduate Digital/Geospatial Consultant - Water - 2027",
+      "company": "Stantec",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": "United Kingdom",
+      "work_mode": "Hybrid",
+      "location": "Newcastle",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": null,
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/44/stantec/graduate-job/81901/graduate-digital-geospatial-consultant-water-2027"
+    },
+    {
+      "title": "2026 Full-Time Analyst Programme - Client & Product Functions - Research and Markets Advisory",
+      "company": "BlackRock",
+      "deadline": null,
+      "salary_listed": true,
+      "salary": "Competitive",
+      "country": null,
+      "work_mode": "Onsite",
+      "location": "Budapest (Hungary)",
+      "subject_tags": [
+        "Computing/Technology"
+      ],
+      "job_description": "The Full-Time Analyst Programme is for candidates who graduated with a bachelor’s or master’s degree between June 2025 – July 2026. Our Full-Time Analyst Programme is a two-year experience designed to empower and support Analysts in connecting their personal passions and strengths to BlackRock’s mission, principles and purpose. The programme begins with an orientation to learn about our purpose, business and strategic priorities – all while gaining insights into the day-to-day life of an Analyst at BlackRock. BlackRock: About Us Learn how we’re investing for the future. Following orientation, Analysts join their teams and stay connected with colleagues across the globe through ongoing training and professional development . This programme offers Analysts the chance to have a lasting impact on the firm and contribute to our greater collective purpose of helping more and more people experience financial well-being.",
+      "minimum_requirements": [],
+      "preferred_requirements": [],
+      "duration": null,
+      "url": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/80211/2026-full-time-analyst-programme-client-and-product-functions-research-and-markets-advisory"
     }
   ]
 }

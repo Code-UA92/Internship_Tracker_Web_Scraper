@@ -48,6 +48,18 @@ MONTH_NAMES = (
     "December",
 )
 
+TARGET_SUBJECT_HEADING = "Computing/Technology"
+COMPUTING_SUBJECT_PATTERNS = (
+    r"\bcomputing\b",
+    r"\bcomputer science\b",
+    r"\bsoftware\b",
+    r"\btechnology\b",
+    r"\bai\s*/\s*machine learning\b",
+    r"\brobotics\b",
+    r"\bdata science\b",
+    r"\bit\b",
+)
+
 
 def extract_company_from_label(label):
     if not label:
@@ -93,22 +105,12 @@ def extract_subject_tags_from_card(article):
     if not subject_headings:
         return []
 
-    raw_text = subject_headings[0].get_all_text().strip()
-    if not raw_text:
-        return []
+    for heading in subject_headings:
+        heading_text = heading.get_all_text().strip()
+        if any(re.search(pattern, heading_text, re.IGNORECASE) for pattern in COMPUTING_SUBJECT_PATTERNS):
+            return [TARGET_SUBJECT_HEADING]
 
-    tags = []
-    seen_tags = set()
-
-    for part in raw_text.split(","):
-        tag = part.strip().rstrip(".")
-        if not tag or tag in seen_tags:
-            continue
-
-        seen_tags.add(tag)
-        tags.append(tag)
-
-    return tags
+    return []
 
 
 def parse_detail_page(detail_html):
@@ -321,6 +323,10 @@ def extract_listing_cards(soup, base_url):
         work_mode, location = normalize_location(raw_location)
         country = extract_country_from_location(raw_location)
         subject_tags = extract_subject_tags_from_card(article)
+
+        if TARGET_SUBJECT_HEADING not in subject_tags:
+            continue
+
         detail_data = parse_detail_page(fetch_page(listing_url).html_content)
 
         seen_urls.add(listing_url)
